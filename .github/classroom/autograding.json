@@ -45,7 +45,7 @@
       "setup": "javac TP01.java",
       "run": "java TP01",
       "input": "3\nDira\nRadi\nIdar",
-      "output": "Idar",
+      "output": "Bulan 1: Dira\nBulan 2: Radi\nBulan 3: Idar",
       "comparison": "included",
       "timeout": 10,
       "points": 10
@@ -54,7 +54,7 @@
       "name": "TP02a",
       "setup": "javac TP02.java",
       "run": "java TP02",
-      "input": "10\n1 8 1 1 2 6 8 10 9 3",
+      "input": "10\n8 1 1 1 2 6 8 10 9 3",
       "output": "10 9 8 8 6 3 2 1 1 1",
       "comparison": "included",
       "timeout": 10,
@@ -64,8 +64,8 @@
       "name": "TP02b",
       "setup": "javac TP02.java",
       "run": "java TP02",
-      "input": "6\n4 8 3 2 8 7",
-      "output": "8 8 7 4 3 2",
+      "input": "5\n8 3 2 8 7",
+      "output": "8 7 4 3 2",
       "comparison": "included",
       "timeout": 10,
       "points": 5
